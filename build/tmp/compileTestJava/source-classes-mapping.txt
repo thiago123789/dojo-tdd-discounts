@@ -1,2 +1,4 @@
 ExampleTest.java
  ExampleTest
+DiscountCalculatorTest.java
+ DiscountCalculatorTest

@@ -9,5 +9,4 @@ public class ExampleTest {
     public void example() {
         assertThat(true, is(true));
     }
-
 }
